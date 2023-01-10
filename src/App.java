@@ -5,5 +5,6 @@ public class App {
         MutiplicaAi multiplicacao = new MutiplicaAi();//crinado intancia da classe
          
         multiplicacao.mutiplicaAi(2);// Escolher numero de qual vai ser a multiplicação
+        multiplicacao.mutiplicaAi(4);
     }
 }
